@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.message-container h1,
+.logo {
+  background-color: black;
+  background-image: linear-gradient(to top, #d6f3e9 0%, #06f7c7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.message-container h2,
+.about-section h2,
+.logo-about {
+  background-color: black;
+  background-image: linear-gradient(to top, #5927ef 0%, #48097b 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.message-container p,
+.contact-header,
+.contact-text,
+.logo-contact {
+  background-color: black;
+  background-image: linear-gradient(to top, #b76cf5 0%, #290348 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.title-color,
+.logo-middle {
+  background-color: black;
+  background-image: linear-gradient(to top, #ec8f8f 0%, #ff0000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
