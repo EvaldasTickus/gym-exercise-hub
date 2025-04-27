@@ -23,6 +23,6 @@ Gym Exercise Hub is a sleek and dynamic fitness web app built with **React**, **
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/gym-exercise-hub.git
+git clone https://github.com/EvaldasTickus/gym-exercise-hub.git
 cd gym-exercise-hub
 npm install
